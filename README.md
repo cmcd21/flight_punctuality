@@ -15,3 +15,6 @@ This project extracts, merges, cleans and analyses the monthly data from the Civ
 - pandas
 - cufflinks
 - plotly.plotly
+
+
+*cufflinks creates intereactive visualisations that cannot be dispalyed on GitHub. They work perfectly in Jupyter Notebooks.
