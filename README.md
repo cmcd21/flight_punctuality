@@ -17,5 +17,5 @@ This project extracts, merges, cleans and analyses the monthly data from the Civ
 - plotly.plotly
 
 
-*cufflinks creates intereactive visualisations that cannot be dispalyed on GitHub. They work perfectly in Jupyter Notebooks.
-Click on the link on the top right of the repo to view in NBViewer*
+*cufflinks creates intereactive visualisations that cannot be dispalyed on GitHub. However, they work perfectly in Jupyter Notebooks.
+Click on the link on the top right of the notebook to view in NBViewer, or click [here](https://nbviewer.jupyter.org/github/cmcd21/flight_punctuality/blob/a2d1043334041bc5a88b4cdadea4f5626bca0c5a/flight_data.ipynb)*
